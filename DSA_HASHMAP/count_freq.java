@@ -16,5 +16,6 @@ public class count_freq{
       }
     }
     System.out.println(map);
+    sc.close();
   }
 }
